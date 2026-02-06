@@ -1,0 +1,13 @@
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.tmp
+*.log
+
+netstats-output/
